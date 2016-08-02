@@ -87,3 +87,11 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Pelican
+themes/pelican-themes
+plugins/pelican-plugins
+output/
+
+# pdb
+.pdb*
