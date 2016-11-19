@@ -1,6 +1,6 @@
-###########################
-What I'm hacking on Pelican
-###########################
+##########################
+Why I'm hacking on Pelican
+##########################
 
 :date: 2016-10-25
 :tags: pelican, python
