@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*- #
+
+"""Pelican configuration"""
+
 from __future__ import unicode_literals
 
 # AUTHOR = u''
@@ -62,18 +65,6 @@ USE_FOLDER_AS_CATEGORY = True
 # Themes
 #
 THEME = u'themes/tuxlite_tbs_omiday'
-#
-# pelican-chameleon
-FAVICON = u'/favicon.ico'
-FAVICON_TYPE = u'ico'
-#
-# new-bootstrap2
-#
-# backdrop
-articles_paginator = u''
-#
-# pelican-purecss
-PROFILE_IMAGE_URL = '/favicon.ico'
 #
 # tuxlite_tbs
 GITHUB_URL = 'https://github.com/omiday/omiday.infrabit.net'
