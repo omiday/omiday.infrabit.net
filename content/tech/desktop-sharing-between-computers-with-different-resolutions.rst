@@ -4,7 +4,6 @@ Desktop Sharing between computers with different resolutions
 
 :date: 2016-07-31 21:31:16 UTC-06:00
 :tags: vnc, xrandr pR3wo
-:authors: omiday
 
 ``xrandr`` allows selecting the display modes (a.k.a resolutions) however due 
 to modelines being `hard coded`_ any additional modeline such as "2560x1600" or 

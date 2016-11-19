@@ -3,7 +3,6 @@ Setting up a FreeIPA Server
 ###########################
 
 :date: 2016-08-17
-:author: omiday
 :tags: fedora, freeipa, screen
 :summary: FreeIPA Server Setup on Fedora 24
 

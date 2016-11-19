@@ -4,7 +4,6 @@ Wondering about circular definitions in Python Language Reference?
 
 :date: 2016-09-02
 :tags: python
-:authors: omiday
 
 If you have been reading the `Python Tutorial`_ and did follow the various 
 references to `Python Language Reference`_ all the way you likely ended up with 

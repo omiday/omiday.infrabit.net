@@ -4,7 +4,6 @@ Setting up a FreeIPA Client
 
 :date: 2016-08-17
 :modified: 2016-11-18
-:author: omiday
 :tags: fedora, freeipa, screen
 :summary: FreeIPA Client setup on Fedora 25
 

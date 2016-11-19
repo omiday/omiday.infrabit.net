@@ -4,7 +4,6 @@ Searching Vim's internal pager
 
 :date: 2016-09-02
 :tags: vim
-:authors: omiday
 
 
 The problem::
