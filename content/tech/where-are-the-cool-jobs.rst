@@ -5,8 +5,6 @@ Looking for a job anyone?
 :date: 2016-09-12
 :modified: 2016-11-17
 :tags: jobs
-:url: 0y9Hi.html
-:save_as: 0y9Hi.html
 :authors: omiday
 
 Look no further! These are all cool job opportunities! No, you don't need to 

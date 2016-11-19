@@ -5,8 +5,6 @@
 :date: 2016-10-06
 :modified: 2016-11-11
 :tags: motd, humor
-:url: s9x5W.html
-:save_as: s9x5W.html
 
 A list of motd_ entries to light up my day for when I end up in some obscure 
 places in the Universe.

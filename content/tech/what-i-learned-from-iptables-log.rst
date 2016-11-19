@@ -4,8 +4,6 @@ What I learned from ``iptables`` log
 
 :date: 2016-09-18
 :tags: iptables
-:url: xf8Np.html
-:save_as: xf8Np.html
 
 
 Not much, until I decided to filter out outbound traffic and then lots of 

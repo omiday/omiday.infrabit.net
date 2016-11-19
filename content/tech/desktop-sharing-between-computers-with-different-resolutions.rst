@@ -4,8 +4,6 @@ Desktop Sharing between computers with different resolutions
 
 :date: 2016-07-31 21:31:16 UTC-06:00
 :tags: vnc, xrandr pR3wo
-:url: pR3wo.html
-:save_as: pR3wo.html
 :authors: omiday
 
 ``xrandr`` allows selecting the display modes (a.k.a resolutions) however due 

@@ -5,8 +5,6 @@ How do you keep your Fedora up to date?
 :date: 2016-10-05
 :modified: 2016-10-11
 :tags: fedora, update, dnf, systemd
-:url: N3nv7.html
-:save_as: N3nv7.html
 
 As a sysadmin, my tool of choice has always been the command line under `GNU 
 Screen`_ so I've never considered digging into the process until today, 

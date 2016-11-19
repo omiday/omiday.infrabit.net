@@ -4,8 +4,6 @@ Some useful DNF plugins
 
 :date: 2016-10-05
 :tags: dnf, fedora
-:url: MENm4.html
-:save_as: MENm4.html
 
 
 You may have come across Adam's blog `X crash during Fedora update when system 

@@ -4,8 +4,6 @@ Searching Vim's internal pager
 
 :date: 2016-09-02
 :tags: vim
-:url: 9veIR.html
-:save_as: 9veIR.html
 :authors: omiday
 
 

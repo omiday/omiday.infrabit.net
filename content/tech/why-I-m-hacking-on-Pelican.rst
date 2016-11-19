@@ -4,8 +4,6 @@ What I'm hacking on Pelican
 
 :date: 2016-10-25
 :tags: pelican, python
-:url: RZR5A.html
-:save_as: RZR5A.html
 
 Pelican_ is the software I use to publish this blog. But Pelican_ is more than 
 that if you are just starting in Python or contributing to an open source 

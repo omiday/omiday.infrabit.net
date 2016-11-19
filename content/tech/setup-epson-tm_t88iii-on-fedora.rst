@@ -4,8 +4,6 @@ Setting up the Epson TM-T88III USB receipt printer on Fedora 24
 
 :date: 2016-09-11
 :tags: linux, fedora, epson, usb
-:url: s1ykO.html
-:save_as: s1ykO.html
 :authors: omiday
 
 A whole day of Google digging comes down to this:

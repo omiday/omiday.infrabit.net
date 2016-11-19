@@ -4,8 +4,6 @@ Mouseless upload to pastebin
 
 :date: 2016-10-19
 :tags: pastebin, screen, fpaste, xsel
-:url: J91ma.html
-:save_as: J91ma.html
 
 The tools
 =========

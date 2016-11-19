@@ -5,8 +5,6 @@ A Git saga or what I learned from a missed commit
 
 :date: 2016-11-16
 :tags: git, pelican
-:url: 7TLNH.html
-:save_as: 7TLNH.html
 
 tl;dr
 =====
