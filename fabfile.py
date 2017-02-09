@@ -1,3 +1,7 @@
+"""
+Fabric configuration file for Pelican
+"""
+
 import SocketServer
 import os
 import shlex
@@ -14,8 +18,8 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'infrabit@infrabit:22'
-dest_path = '/home1/infrabit/public_html/omiday'
+PRODUCTION = 'infrabit@infrabit:22'
+DEST_PATH = '/home1/infrabit/public_html/omiday'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'
@@ -59,11 +63,12 @@ def regenerate():
 
 
 def serve():
-    build()
     """Serve site at http://localhost:8000/"""
+    build()
     os.chdir(env.deploy_path)
 
     class AddressReuseTCPServer(SocketServer.TCPServer):
+        """Server object"""
         allow_reuse_address = True
 
     server = AddressReuseTCPServer(('', PORT), ComplexHTTPRequestHandler)
@@ -81,6 +86,8 @@ def preview():
 def cf_upload():
     """Publish to Rackspace Cloud Files"""
     rebuild()
+    # disable pylint here as per https://github.com/PyCQA/pylint/issues/782
+    # pylint: disable=not-context-manager
     with lcd(DEPLOY_PATH):
         local('swift -v -A https://auth.api.rackspacecloud.com/v1.0 '
               '-U {cloudfiles_username} '
@@ -88,12 +95,12 @@ def cf_upload():
               'upload -c {cloudfiles_container} .'.format(**env))
 
 
-@hosts(production)
+@hosts(PRODUCTION)
 def publish():
     """Publish to production via rsync"""
     local('pelican -s publishconf.py')
     project.rsync_project(
-        remote_dir=dest_path,
+        remote_dir=DEST_PATH,
         exclude=".DS_Store",
         local_dir=DEPLOY_PATH.rstrip('/') + '/',
         delete=True,
