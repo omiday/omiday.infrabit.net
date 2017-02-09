@@ -26,7 +26,9 @@ FLOSS
 
    + https://tummy.com/jobs/
 
-   + http://www.omniti.com/is/hiring 
+   + http://www.omniti.com/is/hiring
+
+   + https://www.datadoghq.com/careers/
 
    + https://automattic.com/ 
 
