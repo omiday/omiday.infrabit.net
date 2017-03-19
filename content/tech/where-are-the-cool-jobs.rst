@@ -24,7 +24,7 @@ FLOSS
 
    + http://www.pythian.com/careers/ 
 
-   + https://tummy.com/jobs/
+   + https://www.tummy.com/jobs/
 
    + http://www.omniti.com/is/hiring
 
