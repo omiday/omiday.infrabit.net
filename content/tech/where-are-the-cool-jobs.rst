@@ -52,6 +52,8 @@ FLOSS
 
    + https://moodle.org/mod/data/view.php?id=7232 
 
+     - https://moodle.com/partners/
+
 Other
 
    + http://hitachi-id.com/careers/
