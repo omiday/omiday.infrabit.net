@@ -18,8 +18,8 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-PRODUCTION = 'omiday@omiday.infrabit.net:22'
-DEST_PATH = '/var/www/vhosts/omiday.infrabit.net/html'
+PRODUCTION = 'omiday@roadrunner.infrabit.net:22'
+DEST_PATH = '/var/www/vhosts/omiday.infrabit.net/html/'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'

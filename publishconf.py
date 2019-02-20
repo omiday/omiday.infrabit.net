@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://omiday.infrabit.net'
+SITEURL = 'https://omiday.infrabit.net'
 RELATIVE_URLS = False
 
 #FEED_DOMAIN = 'http://omiday.infrabit.net'
