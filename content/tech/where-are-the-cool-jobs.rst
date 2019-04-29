@@ -62,7 +62,7 @@ Other
 
    + http://smartt.com/careers
 
-   + http://www.reinvent.com/jobs/
+   + https://venturemedia.com/jobs/
 
    + http://www.j2global.com/
 
