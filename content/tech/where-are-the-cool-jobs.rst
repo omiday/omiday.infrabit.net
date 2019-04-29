@@ -3,7 +3,7 @@ Looking for a job anyone?
 #########################
 
 :date: 2016-09-12
-:modified: 2016-11-17
+:modified: 2019-02-20
 :tags: jobs
 
 Look no further! These are all cool job opportunities! No, you don't need to 
@@ -33,8 +33,6 @@ FLOSS
    + https://automattic.com/ 
 
    + https://www.enova.com/careers/ 
-
-   + http://www.marchex.com/company/openings/ 
 
    + https://www.compose.io/jobs/ 
 
@@ -109,10 +107,8 @@ Other
 
    + https://jobs.github.com/
 
-   + https://www.owasp.org/index.php/ITSupport
-
    + http://careers.stackoverflow.com/jobs/remote
 
-   + http://www.careercast.com/jobs/search
+   + https://news.ycombinator.com/jobs
 
 
