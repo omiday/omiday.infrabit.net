@@ -54,7 +54,7 @@ Other
 
    + http://hitachi-id.com/careers/
 
-   + https://www.coverity.com/company/careers/
+   + https://www.synopsys.com/company/synopsys-careers.html
 
    + http://www.gossamer-threads.com/careers/
 
