@@ -58,8 +58,6 @@ Other
 
    + http://www.gossamer-threads.com/careers/
 
-   + http://www.clearwind.ca/
-
    + http://www.activestate.com/company/careers
 
    + http://smartt.com/careers
