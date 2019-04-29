@@ -44,8 +44,6 @@ FLOSS
 
    + https://www.roaringpenguin.com/company/careers
 
-   + http://www.credativ.ca/about/careers 
-
    + http://www.fsf.org/resources/jobs 
 
    + https://moodle.org/mod/data/view.php?id=7232 
