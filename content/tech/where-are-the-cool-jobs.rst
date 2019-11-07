@@ -3,7 +3,7 @@ Looking for a job anyone?
 #########################
 
 :date: 2016-09-12
-:modified: 2019-07-13
+:modified: 2019-11-06
 :tags: jobs
 
 Look no further! These are all cool job opportunities! No, you don't need to 
@@ -25,6 +25,8 @@ PostgreSQL
 FLOSS
 
    + http://www.pythian.com/careers/ 
+
+   + https://www.siriusopensource.com/
 
    + https://www.tummy.com/jobs/
 
