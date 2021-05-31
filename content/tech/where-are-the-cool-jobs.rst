@@ -3,7 +3,7 @@ Looking for a job anyone?
 #########################
 
 :date: 2016-09-12
-:modified: 2019-11-06
+:modified: 2021-05-30
 :tags: jobs
 
 Look no further! These are all cool job opportunities! No, you don't need to 
@@ -76,6 +76,8 @@ Other
 
    + http://www.greenhouse.io/
 
+   + https://platform.sh/company/careers/#grnhse_app
+
 |
 
 -----
@@ -106,8 +108,6 @@ OpenStack
 Other
 
    + https://www.python.org/jobs/location/telecommute/
-
-   + https://jobs.github.com/
 
    + http://careers.stackoverflow.com/jobs/remote
 
