@@ -3,14 +3,11 @@ Looking for a job anyone?
 #########################
 
 :date: 2016-09-12
-:modified: 2021-05-30
+:modified: 2024-04-13
 :tags: jobs
 
-Look no further! These are all cool job opportunities! No, you don't need to 
-agree with me ;)
-
-Employer links
-==============
+Direct hire
+===========
 
 PostgreSQL
 
@@ -22,7 +19,11 @@ PostgreSQL
 
    + http://www.refractions.net/company/careers/
 
+   + https://pganalyze.com/careers
+
 FLOSS
+
+   + https://ciq.com/company/careers/
 
    + http://www.pythian.com/careers/ 
 
