@@ -3,7 +3,7 @@ Looking for a job anyone?
 #########################
 
 :date: 2016-09-12
-:modified: 2024-04-13
+:modified: 2025-06-26
 :tags: jobs
 
 Direct hire
@@ -22,6 +22,8 @@ PostgreSQL
    + https://pganalyze.com/careers
 
 FLOSS
+
+   + https://about.gitlab.com/jobs/all-jobs/
 
    + https://ciq.com/company/careers/
 
